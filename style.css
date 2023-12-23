@@ -11,3 +11,14 @@ h1{
 body{
       background-color:green;
 }
+ ul li{
+        display:inline;
+        font-size:20px;
+        color:#fff;
+}
+ul {
+     text-align:center;
+     color:blue;
+     font-size:50px; 
+}
+       
