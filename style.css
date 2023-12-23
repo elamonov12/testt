@@ -1,1 +1,13 @@
-frfwe
+*{
+      margin:0;
+      padding:0;
+      box-sizining:border-box;
+}
+h1{
+     color:blue;
+     font-size:40px;
+     text-aling:center;
+}
+body{
+      background-color:green;
+}
